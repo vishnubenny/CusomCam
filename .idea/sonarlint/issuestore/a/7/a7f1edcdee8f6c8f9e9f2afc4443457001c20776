@@ -1,0 +1,29 @@
+
+Jsquid:S1068")Remove this unused "mFile" private field.(Œ˜‡ÿÿÿÿÿ8³¼¶¢+
+Osquid:S2387"."mState" is the name of a field in "Fragment".(‚ÉÛüÿÿÿÿ8Ïé½¶¢+
+Lsquid:S1068"1Remove this unused "mCameraDevice" private field.(äÃ§>8›é¸¶¢+
+Isquid:S1068"-Remove this unused "mCameraId" private field.(Í½8¸‹´¶¢+
+Lsquid:S1068"0Remove this unused "mImageReader" private field.(„ÉòÀ8„×»¶¢+
+asquid:S1068"@Remove this unused "STATE_WAITING_NON_PRECAPTURE" private field.(ŒûŠŠÿÿÿÿÿ8ÈË´¶¢+
+Rsquid:S1068"6Remove this unused "STATE_WAITING_LOCK" private field.(¿Ò¡8Û×°¶¢+
+Xsquid:S1068"<Remove this unused "STATE_WAITING_PRECAPTURE" private field.(³’à8Û×°¶¢+
+Ysquid:S1068"8Remove this unused "mCameraOpenCloseLock" private field.(‹é¬”ıÿÿÿÿ8«¿¶¢+
+Vsquid:S1068":Remove this unused "mPreviewRequestBuilder" private field.(º‘Ââ8‚‹½¶¢+
+Qsquid:S1068"0Remove this unused "mTextureView" private field.(±’Èøÿÿÿÿ8Šğ…·¢+
+Lsquid:S1068"0Remove this unused "mPreviewSize" private field.(ì…ë‰8âÁ¹¶¢+
+^squid:S1068"=Remove this unused "REQUEST_CAMERA_PERMISSION" private field.(º¯†èûÿÿÿÿ8ûû†¶¢+
+|squid:S1450"[Remove the "mTextureView" field and declare it as a local variable in the relevant methods.(±’Èøÿÿÿÿ8Šğ…·¢+
+Osquid:S1068"3Remove this unused "mPreviewRequest" private field.(˜ğÇÉ8Ù¹½¶¢+
+Vsquid:S1068"5Remove this unused "mBackgroundThread" private field.(…¦ÿúÿÿÿÿ8‘èº¶¢+
+Ksquid:S1068"*Remove this unused "mState" private field.(‚ÉÛüÿÿÿÿ8Ïé½¶¢+
+Tsquid:S1068"3Remove this unused "FRAGMENT_DIALOG" private field.(á„Ã³ıÿÿÿÿ8ûû†¶¢+
+Rsquid:S1068"6Remove this unused "MAX_PREVIEW_HEIGHT" private field.(‰‘æ”8Û×°¶¢+
+Qsquid:S1068"5Remove this unused "MAX_PREVIEW_WIDTH" private field.(áæÃ­8Û×°¶¢+
+Tsquid:S1068"3Remove this unused "mCaptureSession" private field.(®™ —ùÿÿÿÿ8Ì¸¶¢+
+Rsquid:S1068"6Remove this unused "mSensorOrientation" private field.(ñ•€¾8ººÀ¶¢+
+Osquid:S1068"3Remove this unused "mFlashSupported" private field.(í¸€¿8º€À¶¢+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8àµ„·¢+
+Xsquid:S1068"7Remove this unused "STATE_PICTURE_TAKEN" private field.(¦‹ÎŠûÿÿÿÿ8Û×°¶¢+
+Csquid:S1068"'Remove this unused "TAG" private field.(ŒÍÔú8Û×°¶¢+
+Wsquid:S1068"6Remove this unused "mBackgroundHandler" private field.(Ÿ°Ùúÿÿÿÿÿ8¦»¶¢+
+usquid:S1450"TRemove the "mFile" field and declare it as a local variable in the relevant methods.(Œ˜‡ÿÿÿÿÿ8–·†º¢+
